@@ -1,6 +1,9 @@
 # flutter_application_1
 
-A new Flutter project.
+My first project in Flutter. I used a lot of tutorial videos and courses but I 
+gave up on making a server for something like this, not currently my level. 
+It is also my first interaction with Github so sorry if I dont understand something or
+I didnt add anything important here! 
 
 ## Getting Started
 
